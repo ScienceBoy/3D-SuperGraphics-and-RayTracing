@@ -9,4 +9,7 @@ Additionally, the latest DRAFT version of my sporadically updated 3D-RayTracing 
 
 Feedback is very welcome every time.
  
+Here is one of my favorite examples made with my latest version:
+![glas mit Loeffel und Flasche mit Wasser](https://user-images.githubusercontent.com/101653815/158475883-d0689d8c-7d87-412b-b6ee-2f5b7fb70094.png)
+
 Note: I know there is still a lot to improve... that is why I call it a "draft version". Please do not get upset if things do not yet work as expected :-)
