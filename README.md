@@ -1,6 +1,6 @@
 3D-SuperGraphics_and_RayTracing
 
-This repository contains (in the folder "Files_At_The_End_Of_Each_Chapter") the files and further material created and used in my udemy course about 3D-supergraphics and RayTracing:
+In the folder "Files_At_The_End_Of_Each_Chapter" this repository contains the files and further material created and used in my udemy.com course about 3D-supergraphics and RayTracing:
 https://www.udemy.com/course/3d-supergrafik-und-raytracing-in-deinem-browser/?referralCode=DF539CD573622AB2FE44
 
 Additionally, the latest DRAFT version of my sporadically updated 3D-RayTracing program can be found here. To use it, just download all files, which
