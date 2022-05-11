@@ -1,9 +1,9 @@
 3D-SuperGraphics_and_RayTracing
 
-Here, you can find the files and further material created and used in my udemy.com course about 3D Super Graphics and RayTracing:
+Files and further material created and used in my udemy.com course about 3D Super Graphics and RayTracing:
 https://www.udemy.com/course/3d-supergrafik-und-raytracing-in-deinem-browser
 
-Feedback is very welcome every time.
+Feedback is very welcome.
  
 One of my favorite examples made with my latest version:
 
